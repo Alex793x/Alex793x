@@ -3,7 +3,7 @@
 <details>
   <summary>⚡ Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="test-aichatteam.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's Github Stats" src="http://test-aichatteam.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
