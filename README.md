@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-(test-aichatteam.vercel.app
+[MyStats](test-aichatteam.vercel.app
 =Alex793x)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on ...
