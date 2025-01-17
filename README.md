@@ -1,12 +1,18 @@
 ## Hi there 👋
 
+<details>
+  <summary>⚡ Github Stats</summary>
+
+  <img align="left" alt="codeSTACKr's Github Stats" src="test-aichatteam.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+
+</details>
+
 <!--
 **Alex793x/Alex793x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[MyStats](test-aichatteam.vercel.app
-=Alex793x)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
