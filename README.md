@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-<details>
-  <summary>⚡ Github Stats</summary>
+## ⚡ GitHub Stats
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true" />
-
-</details>
+<img 
+  align="left" 
+  alt="Alex793x's GitHub Stats" 
+  src="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true" 
+/>
 
 <!--
 **Alex793x/Alex793x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
