@@ -2,24 +2,11 @@
 
 ## ⚡ GitHub Stats
 
-<picture>
-  <source
-    srcset="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Alex793x&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true&theme=dracula" />
-</picture>
-
 <img 
   align="left" 
   alt="Alex793x's GitHub Stats" 
-  src="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true&theme=transparent&" 
+  src="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true&theme=dracula" 
 />
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex793x&langs_count=8)
 
