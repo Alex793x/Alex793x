@@ -5,20 +5,12 @@
 <img 
   align="left" 
   alt="Alex793x's GitHub Stats" 
-  src="http://test-pink-two-75.vercel.app/api?username=Alex793x&show_icons=true&hide_border=true&theme=dracula&include_orgs=true" 
+  src="http://test-pink-two-75.vercel.app/api?username=Alex793x&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBE&include_all_commits=true&show_icons=true&hide_border=true&theme=dracula&include_orgs=true" 
 />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex793x&langs_count=5&theme=dracula&hide_border=true&include_orgs=true)
 
-⚡⚡⚡ GitHub IntelliOptima Stats
 
-<img 
-  align="left" 
-  alt="Alex793x's GitHub Stats" 
-  src="http://test-pink-two-75.vercel.app/api?username=141168535&show_icons=true&hide_border=true&theme=dracula&include_orgs=true" 
-/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=141168535&langs_count=5&theme=dracula&hide_border=true&include_orgs=true
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex793x&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBE&langs_count=5&theme=dracula&hide_border=true&include_orgs=true)
 <!--
 **Alex793x/Alex793x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
